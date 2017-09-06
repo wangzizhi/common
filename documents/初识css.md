@@ -239,8 +239,5 @@ CSS函数calc()可以用在任何一个需要length、frequency, angle、time、
 
 最佳方案是基于FlexBox的方案，
 
-欲知怎样解决，请看下回分解！
-<div style="text-align:center;font-size:3em;color:red">谢谢大家</div>
-
   [1]: https://zh.wikipedia.org/wiki/%E4%B8%87%E7%BB%B4%E7%BD%91%E8%81%94%E7%9B%9F
   [2]: https://stylelint.io/
